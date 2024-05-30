@@ -1,0 +1,73 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+#lista {
+    list-style: none;
+    padding: 0;
+}
+
+#lista li {
+    background: #a3d1ed;
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+#lista button {
+    padding: 5px 10px;
+    border: none;
+    background: #37857b;
+    color: #d9eb9c;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#lista button:hover {
+    background: #40bbab;
+}
+
+#tarea {
+    margin-top: 20px;
+}
+
+#tarea li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#tarea li[style*="color: green"] {
+    background: #d4edda;
+    color: #155724;
+}
+
+#tarea li[style*="color: red"] {
+    background: #f8d7da;
+    color: #721c24;
+}
+
