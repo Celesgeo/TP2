@@ -1,3 +1,4 @@
 nuevo archivo para abrir rama main
 nuevo sin conflicto2
 nuevo sin conflicto3
+nuevo sin conflicto4
