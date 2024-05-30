@@ -1,2 +1,3 @@
 creando rama con conflicto3
-
+se agrego conflicto
+mas conflicto
