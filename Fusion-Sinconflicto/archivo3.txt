@@ -1,1 +1,2 @@
 nuevo archivo para abrir rama main
+nuevo sin conflicto2
