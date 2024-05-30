@@ -1,3 +1,3 @@
 creando rama con conflicto2
+<<<<<<< HEAD
 se agrega modificacion
-con conflico
