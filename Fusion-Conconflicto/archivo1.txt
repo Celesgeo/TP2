@@ -1,3 +1,6 @@
 creando rama con conflicto4
+<<<<<<< HEAD
 Agregando linea conflicto2
-mas conflicto
+=======
+Agregando linea conflicto
+>>>>>>> Rama4Conconflicto
