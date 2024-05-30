@@ -1,7 +1,1 @@
-creando rama con conflicto3
-<<<<<<< HEAD
-se agrego conflicto
-mas conflicto
-=======
-
->>>>>>> Rama3Conconflicto
+creando rama con conflicto4
