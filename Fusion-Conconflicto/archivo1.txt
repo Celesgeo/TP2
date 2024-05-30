@@ -1,3 +1,4 @@
 creando rama con conflicto1
 creando commit
 creando 
+agregando conflicto
