@@ -1,6 +1,8 @@
 creando rama con conflicto1
+<<<<<<< HEAD
 creando commits
 creando
 commit
 agregando mas 
 conflicto
+>>>>>>> Rama1Conconflicto
