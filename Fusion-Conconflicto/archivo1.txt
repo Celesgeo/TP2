@@ -1,1 +1,2 @@
 creando rama con conflicto2
+se agrega modificacion para conflicto
