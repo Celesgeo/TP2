@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio6</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Datos Personales</h1>
+    <form id="formulario">
+        <div>
+            <label for="nombre">Nombre:</label>
+            <input id="nombre" name="nombre"/>
+        </div>
+        <div>
+            <label for="apellido">Apellido:</label>
+            <input id="apellido" name="apellido"/>
+        </div>
+        <div>
+            <label for="edad">Edad:</label>
+            <input id="edad" name="edad" type="number"/>
+        </div>
+        <div>
+            <label for="altura">Altura:</label>
+            <input id="altura" name="altura" type="number" step="0.01" />
+        </div>
+        <div>
+            <label for="email"> correo electronico:</label>
+            <input id="email" type="text" name="email" />
+        </div>
+        <div>
+        <p id="mensaje"></p>
+        </div>
+        <button type="submit">Validar</button>
+        </form>
+        <script type="module" src="script.js" > </script>
+    
+</body>
+</html>
